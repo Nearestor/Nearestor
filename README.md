@@ -12,9 +12,8 @@
   <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a> -->
 
-<br />
-
-Привет, меня зовут Гаспарян Виктор. Сейчас развиваюсь как ИТ-специалист. Изучаю Git и ещё несколько интересных технологий.
+Hello there!
+My name is Viktor
 
 <br />
 
@@ -27,9 +26,9 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>
 
-🚧 **Мои задачи на ближайшее время:**
-<!-- TODO-IST:START -->
-* [x] Прокачать свой профиль на Github
-* [ ] Пройти курс по Git на Slurm
-* [ ] Создать свой первый проект на Github       
-<!-- TODO-IST:END -->
+🚧 **My goals:**
+<!-- TODO-LIST:START -->
+* [x] Start working in github
+* [x] Learn basics of github
+* [ ] Understand github actions
+<!-- TODO-LIST:END -->
